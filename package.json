@@ -4,10 +4,24 @@
   "lockfileVersion": 1,
   "requires": true,
   "dependencies": {
-    "lodash": {
-      "version": "4.17.20",
-      "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.20.tgz",
-      "integrity": "sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA=="
-    }
-  }
+    "lodash": "^4.17.20",
+    "normalize.css": "^8.0.1"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarlinton-zea/travel-site-course-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarlinton-zea/travel-site-course-project/issues"
+  },
+  "homepage": "https://github.com/jarlinton-zea/travel-site-course-project#readme",
+  "description": ""
 }
